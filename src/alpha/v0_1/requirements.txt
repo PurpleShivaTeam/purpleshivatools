@@ -1,5 +1,7 @@
-setuptools
 scapy
+reportlab
+
+setuptools
 pyperclip
 requests
 criptography
